@@ -1,0 +1,11 @@
+
+
+{
+  "proxy": "http://127.0.0.1:5555",
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "PORT=4000 react-scripts start"
+  }
+}
